@@ -39,7 +39,7 @@ This project is created using **Short Term Memory (STM)** and **Long Term Memory
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TarikYil/AI-Chatbot-Memory.git
+   [git clone https://github.com/TarikYil/AI-Chatbot-Memory.git](https://github.com/TarikYil/AI_Chatbot_Memory.git)
    cd AI-Chatbot-Memory.git
 
 2. Build and start the containers using Docker Compose:
