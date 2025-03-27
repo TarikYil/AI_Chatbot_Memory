@@ -77,3 +77,5 @@ coverage.xml
 *.pyc
 *.pyo
 *.pyd
+
+/image/
