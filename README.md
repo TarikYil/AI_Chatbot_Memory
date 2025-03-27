@@ -6,7 +6,7 @@
 
 This project is created using **Short Term Memory (STM)** and **Long Term Memory (LTM)** AI Chatbot. FastAPI API management stores and consumes LTM with Streamlit front-end interface and PostgreSQL database. The system generates responses using Google Gemini and provides embedding-based memory management. The project is designed to work in isolation with Docker containers.
 
-![Web Ui](image/web_ui.png)
+![Web Ui](web_ui.png)
 
 ---
 
