@@ -7,7 +7,7 @@ from app.llm.gemini import GeminiLLM
 from app.embeddings.google_embeddings import GoogleEmbeddings
 
 app = FastAPI(
-    title="Jetlink AI Chatbot",
+    title="AI Chatbot",
     description="Conversational chatbot using STM and LTM memory management",
     version="1.0"
 )
