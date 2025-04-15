@@ -59,8 +59,6 @@ This project is created using **Short Term Memory (STM)** and **Long Term Memory
    POSTGRES_DB=mydatabase
    POSTGRES_USER=myuser
    POSTGRES_PASSWORD=mypassword
-
-
 ### Usage
 - The chatbot will respond based on the memory type selected (STM or LTM).
 - **STM**: Stores conversation history only for the session, resets on page reload.
